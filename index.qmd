@@ -1,11 +1,16 @@
 ---
-title: "website-template"
+title: "About"
+subtitle: "Olayinka Aremu"
+image: IMG_2484.jpeg
+about:
+  template: trestles
+format:
+  html:
+    toc: false
 ---
+About this site
 
-This is a Quarto website.
+Welcome to my page!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a PhD candidate in the Food Systems Economics and Policy Group (FSEP) at ETH Zürich, Switzerland. 
 
-```{r}
-1 + 1
-```

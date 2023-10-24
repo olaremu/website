@@ -1,7 +1,7 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "69392a99be738c1679115eab8a73aea9",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About\"\nsubtitle: \"Olayinka Aremu\"\nimage: IMG_2484.jpeg\nabout:\n  template: trestles\nformat:\n  html:\n    toc: false\n---\n\n\nAbout this site\n\nWelcome to my page!\n\nI am a PhD candidate in the Food Systems Economics and Policy Group (FSEP) at ETH Zürich, Switzerland. \n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
