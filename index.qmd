@@ -1,16 +1,33 @@
 ---
-title: "About"
-subtitle: "Olayinka Aremu"
+title: "Olayinka Aremu"
+subtitle: "About"
 image: IMG_2484.jpeg
 about:
   template: trestles
+  links:
+      - icon: twitter
+        text: twitter
+        href: https://twitter.com/AremuOlayinka
+      - icon: github
+        text: Github
+        href: https://github.com/olaremu
+      - icon: linkldn
+        text: Linkldn
+        href: https://www.linkedin.com/in/olayinka-aremu/
+      - icon: orcid
+        text: Orcid ID
+        href: https://orcid.org/0000-0002-5977-0013
 format:
   html:
     toc: false
 ---
-About this site
 
 Welcome to my page!
 
-I am a PhD candidate in the Food Systems Economics and Policy Group (FSEP) at ETH Zürich, Switzerland. 
+I am a PhD candidate in the Food Systems Economics and Policy Group (FSEP) at ETH Zürich, Switzerland.
 
+I work at the intersection of agri-food value chains and agri-food employment, labor market, and development economics. My research focuses on the role of agri-food employment and rural labor markets in achieving Sustainable Development Goals (SDGs) #3 (good health and well-being), #5 (gender equality), and (#8) decent work. My Ph.D. field project uses a case study on Nigeria's tomato value chain. In addition, I have worked on geo-mapping food price shocks to monitor food security threats at granular levels.
+
+I hold an MSc in International Agribusiness and Rural Development Economics from Georg-August-Universität Göttingen, Germany, and a BSc in agricultural economics from the University of Ibadan, Nigeria.
+
+**Research fields:** Agri-food value chain; Development economics, Gender, Labor economics
